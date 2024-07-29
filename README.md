@@ -12,6 +12,9 @@
 <p align="center">
 ![Screenshot (55)](https://github.com/user-attachments/assets/6ed2b45c-61ae-4a1f-9e9e-04f6d3a37097)
 </p>
+
+![Gigin-Assignment-ss-2](https://github.com/user-attachments/assets/ad70faff-c2f2-44d0-8742-9b6b2b686052)
+
  
 <h2 id="technologies">💻 Technologies</h2>
 - React v18
