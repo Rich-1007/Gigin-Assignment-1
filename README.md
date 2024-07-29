@@ -7,11 +7,10 @@
   Created a pet listing website using React.js. Used custom hooks for data fetching, utilized useSearchParams and useEffect hooks for making api calls when it is required, error handling, created reusable components and followed the best practices to create the project.
 </p>
 
-<h2 id="layout">🎨 Layout</h2>
+<h2 id="layout">🎨 Screenshot</h2>
 
-<p align="center">
-![Screenshot (55)](https://github.com/user-attachments/assets/6ed2b45c-61ae-4a1f-9e9e-04f6d3a37097)
-</p>
+![Gigin-Assignment-ss-1](https://github.com/user-attachments/assets/f7ec1fe5-c571-44b3-a8de-3820ad32885f)
+
 
 ![Gigin-Assignment-ss-2](https://github.com/user-attachments/assets/ad70faff-c2f2-44d0-8742-9b6b2b686052)
 
@@ -22,6 +21,8 @@
 - React-Router-DOM for routing
    
 <h2 id="started">🚀 Getting started</h2>
+
+Create a .ENV file and write " VITE_PET_API=http://pets-v2.dev-apis.com/pets " inside.
  
 <h3>Prerequisites</h3>
 
