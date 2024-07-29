@@ -34,7 +34,7 @@ Create a .ENV file and write " VITE_PET_API=http://pets-v2.dev-apis.com/pets " i
 To clone this project on your local machine open terminal and run the command:
 
 ```bash
-git clone https://github.com/Rich-1007/Gigin-Assignment.git
+https://github.com/Rich-1007/Gigin-Assignment-1.git
 ```
  
 <h3>Starting</h3>
@@ -42,7 +42,7 @@ git clone https://github.com/Rich-1007/Gigin-Assignment.git
 To run this project locally
 
 ```bash
-cd Gigin-assignment
+cd Gigin-Assignment-1
 npm i
 npm run dev
 ```
