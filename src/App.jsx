@@ -8,30 +8,30 @@ import {
   createBrowserRouter,
 } from "react-router-dom";
 
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <Layout />,
-//     errorElement: <ErrorPage />,
-//     children: [
-//       {
-//         path: "/",
-//         element: <Home />,
-//       },
-//       {
-//         path: "/petDetails",
-//         element: <PetDetails />,
-//       },
-//     ],
-//   },
-// ]);
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Layout />,
+    errorElement: <ErrorPage />,
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
+      {
+        path: "/petDetails",
+        element: <PetDetails />,
+      },
+    ],
+  },
+]);
 
 function App() {
   return (
     <>
-      {/* <RouterProvider router={router} /> */}
+      <RouterProvider router={router} />
 
-      <span>Hello</span>
+      
     </>
   );
 }
